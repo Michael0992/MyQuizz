@@ -32,7 +32,7 @@
 }
 
 .mySidebar{
-    background-image: url(/background.png);
+    background-image: url(/MyQuizz/background.png);
     background-size:cover;
     background-position:center;
     box-shadow:0 0 15px 5px black;
